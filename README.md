@@ -1,3 +1,4 @@
 # Leetcode-Solutions
-Solutions for leetcode problems
-Author - hariprasadvp
+Solutions for leetcode problems.
+<br>
+Author - hariprasadvp.
